@@ -4,4 +4,4 @@ description: "use an external API to retrieve and display a joke"
 
 runs:
   using: "node"
-  main: "main.js"
+  main: "main.js
